@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h2>I am Ranajit Das<h2>
 
 <!--
 **ranajitdasgithub/ranajitdasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h5>About Me</h5>
+
 ---
+
 <text>An enthusiastic, self-motivated and passionate front-end
 and backend web developer. Problem solving mindset and
 the ability to perform well in collaboration. Looking forward
