@@ -1,4 +1,4 @@
-<img align="center"  src="./images/name.gif" alt="Ranajit Das" />
+<img align="center"  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Ranajit Das" />
 
 <br/>
 
@@ -11,7 +11,7 @@ the ability to perform well in collaboration.</h3>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" /></a><a> </a><a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank"><img align="center" src="./images/hacker.png" alt="@dasranajit410" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" /></a><a> </a><a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="40" width="40" /></a>
 </p>
 
 
@@ -35,27 +35,9 @@ the ability to perform well in collaboration.</h3>
 
 <h2>My Github Stats</h2>
 
-<div align="center">
-  <div style="display: flex; gap:2rem">
-    <div  style="margin-right:1rem">
 
-![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=radical)
-
-</div>
-<div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=radical)](https://git.io/streak-stats)
-
-</div>
-</div>
-</div>
+ ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=radical)](https://git.io/streak-stats) 
 
 
-<div style="display:flex;justify-content:space-between;gap:2rem" >
 
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=radical" alt="ranajitdasgithub" />
-<div style="width:auto" >
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=material-palenight)
-</div>
-</div>
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=radical" alt="ranajitdasgithub" />![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=material-palenight)
