@@ -1,33 +1,61 @@
-### Hi there 👋
-<h2>I am Ranajit Das<h2>
+<img align="center"  src="./images/name.gif" alt="Ranajit Das" />
 
-<!--
-**ranajitdasgithub/ranajitdasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
--->
+<p> <img height="25px" src="https://komarev.com/ghpvc/?username=ranajitdasgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ranajitdasgithub" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... MERN(MongoDb, Express, React, Node.js) Stack Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h5>About Me</h5>
+<h3>An enthusiastic, self-motivated and passionate front-end
+and backend web developer with a specialization in MERN stack. Problem solving mindset and
+the ability to perform well in collaboration.</h3>
 
----
+<h2 align="left">Connect with me:</h2>
 
-<text>An enthusiastic, self-motivated and passionate front-end
-and backend web developer. Problem solving mindset and
-the ability to perform well in collaboration. Looking forward
-to working as an accountable and competent employee in
-an exciting tech company.</text>
+<p align="left">
+<a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" /></a><a> </a><a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank"><img align="center" src="./images/hacker.png" alt="@dasranajit410" height="40" width="40" /></a>
+</p>
+
+
+<h2 align="left">Languages and Tools:</h2>
+
+
+
+<div style="display:flex;gap:1rem"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+  
+ </div>
+
 
 <h2>My Github Stats</h2>
 
----
+<div align="center">
+  <div style="display: flex; gap:2rem">
+    <div  style="margin-right:1rem">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=radical)
 
+</div>
+<div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=radical)](https://git.io/streak-stats)
+
+</div>
+</div>
+</div>
+
+
+<div style="display:flex;justify-content:space-between;gap:2rem" >
+
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=radical" alt="ranajitdasgithub" />
+<div style="width:auto" >
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=material-palenight)
+</div>
+</div>
