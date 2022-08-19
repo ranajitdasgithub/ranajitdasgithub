@@ -8,6 +8,9 @@
 and backend web developer with a specialization in MERN stack. Problem solving mindset and
 the ability to perform well in collaboration.</h3>
 
+- Checkout my <a href="https://ranajit-das-portfolio.netlify.app/">Portfolio</a>
+- Checkout my <a href="https://drive.google.com/file/d/132sjpUre0NflL6Qr3mtpW7YaB30RRW3R/view?usp=sharing">Resume</a>
+
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
