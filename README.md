@@ -42,5 +42,3 @@ the ability to perform well in collaboration.</h3>
  ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=radical)](https://git.io/streak-stats) 
 
 
-
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=radical" alt="ranajitdasgithub" />![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=material-palenight)
