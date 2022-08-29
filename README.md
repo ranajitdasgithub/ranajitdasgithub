@@ -14,7 +14,13 @@ the ability to perform well in collaboration.</h3>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" /></a><a> </a><a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" />
+  </a>
+  <a> </a>
+  <a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="40" width="40" />
+  </a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -33,12 +39,12 @@ the ability to perform well in collaboration.</h3>
 <h2>My Github Stats</h2>
 
 
- ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=radical)](https://git.io/streak-stats) 
+ ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=cobalt)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=cobalt)](https://git.io/streak-stats) 
 
+<!-- Theme color -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-
-
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=radical" alt="ranajitdasgithub" />
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitdasgithub&show_icons=true&locale=en&theme=cobalt" alt="ranajitdasgithub" />
 
 <div>
 
