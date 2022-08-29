@@ -14,12 +14,14 @@ the ability to perform well in collaboration.</h3>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/ranajit-das-233b06a3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="40" />
+  <a href="https://linkedin.com/in/ranajit-das-233b06a3">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="40" width="60" />
   </a>
-  <a> </a>
-  <a href="https://www.hackerrank.com/dasranajit410?hr_r=1" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="40" width="40" />
+  <a href="https://www.instagram.com/ranajitworld/">
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40" width="60" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>
+   </a>
+  <a href="https://www.hackerrank.com/dasranajit410?hr_r=1">
+  <img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="50" width="50" />
   </a>
 </p>
 
@@ -48,8 +50,10 @@ the ability to perform well in collaboration.</h3>
 
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+
 | Top Languages | Contribution Graph  |
-| --- | --- |
-| ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=dracula)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=cobalt" alt="Rick Staa's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=dracula)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
 
 
