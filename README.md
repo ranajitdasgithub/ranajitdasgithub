@@ -1,4 +1,6 @@
-<img align="center"  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Ranajit Das" />
+<div align="center">
+  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Ranajit Das" />
+</div>
 
 <br/>
 
@@ -37,7 +39,7 @@ the ability to perform well in collaboration.</h3>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo" width='40'/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  
+  <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="40"/> -->
   
  </p>
 
