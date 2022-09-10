@@ -13,7 +13,7 @@ the ability to perform well in collaboration.</h3>
 - Checkout my <a href="https://ranajit-das-portfolio.netlify.app/">Portfolio</a>
 - Checkout my <a href="https://drive.google.com/file/d/132sjpUre0NflL6Qr3mtpW7YaB30RRW3R/view?usp=sharing">Resume</a>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
 <p align="left">
   <a href="https://linkedin.com/in/ranajit-das-233b06a3">
@@ -27,7 +27,7 @@ the ability to perform well in collaboration.</h3>
   </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
 
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="40"/>
@@ -43,7 +43,7 @@ the ability to perform well in collaboration.</h3>
   
  </p>
 
- ### Quick stats about me
+ <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
 | Github Stats | Current Strek  |
 | --- | --- |
