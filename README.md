@@ -4,8 +4,8 @@
 
 <br/>
 
-<p> <img height="25px" src="https://komarev.com/ghpvc/?username=ranajitdasgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ranajitdasgithub" /> </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p> <img height="20px" src="https://komarev.com/ghpvc/?username=ranajitdasgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ranajitdasgithub" /> </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <h3>An enthusiastic, self-motivated and passionate front-end
 and backend web developer with a specialization in MERN stack. Problem solving mindset and
 the ability to perform well in collaboration.</h3>
