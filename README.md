@@ -48,7 +48,7 @@ the ability to perform well in collaboration.</h3>
 
 | Github Stats | Current Strek  |
 | --- | --- |
-| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=cobalt) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=cobalt)](https://git.io/streak-stats) |
+| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=tokyonight)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
@@ -57,6 +57,6 @@ the ability to perform well in collaboration.</h3>
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=cobalt" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=dracula)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
 
 
