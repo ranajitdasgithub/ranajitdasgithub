@@ -17,13 +17,13 @@ the ability to perform well in collaboration.</h3>
 
 <p align="left">
 <a href="dasranajit410@gmail.com">
-  <img align="center" src="./Gmail-logo.wine.svg" height="40" width="60" align="center" />
+  <img align="center" src="./Gmail_Logo.png" height="35" width="35" align="center" />
   </a>
   <a href="https://linkedin.com/in/ranajit-das-233b06a3">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="35" width="60" align="center" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="35" width="70" align="center" />
   </a>
   <a href="https://www.instagram.com/ranajitworld/">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40" width="55" align="center" alt="Follow Ranajit's on Instagram" title="Follow Ranajit's on Instagram"/>
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40" width="50" align="center" alt="Follow Ranajit's on Instagram" title="Follow Ranajit's on Instagram"/>
    </a>
   <a href="https://www.hackerrank.com/dasranajit410?hr_r=1">
   <img align="center" src="https://user-images.githubusercontent.com/101388961/185494941-2ab8f5d3-6590-47fb-a524-f74bc9dd3adc.png" alt="@dasranajit410" height="50" width="50" />
