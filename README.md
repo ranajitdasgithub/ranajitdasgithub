@@ -5,20 +5,18 @@
 <br/>
 
 <p> <img height="25px" src="https://komarev.com/ghpvc/?username=ranajitdasgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ranajitdasgithub" /> </p>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>An enthusiastic, self-motivated and passionate front-end
 and backend web developer with a specialization in MERN stack. Problem solving mindset and
 the ability to perform well in collaboration.</h3>
 
 - Checkout my <a href="https://ranajit-das-portfolio.netlify.app/">Portfolio</a>
 - Checkout my <a href="https://drive.google.com/file/d/1wG9inkWOpOYx-UyNINpI-LGKCi1ZShgm/view?usp=sharing">Resume</a>
+- How to reach me **dasranajit410@gmail.com**
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
 <p align="left">
-<a href="dasranajit410@gmail.com">
-  <img align="center" src="./Gmail_Logo.png" height="35" width="35" align="center" />
-  </a>
   <a href="https://linkedin.com/in/ranajit-das-233b06a3">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranajit-das-233b06a3" height="35" width="70" align="center" />
   </a>
