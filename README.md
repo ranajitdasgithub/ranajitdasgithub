@@ -35,12 +35,13 @@ the ability to perform well in collaboration.</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="35"/>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo" width='40'/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="40"/> -->
+  
   
  </p>
 
@@ -48,7 +49,7 @@ the ability to perform well in collaboration.</h3>
 
 | Github Stats | Current Strek  |
 | --- | --- |
-| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
@@ -57,6 +58,6 @@ the ability to perform well in collaboration.</h3>
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
 
 
