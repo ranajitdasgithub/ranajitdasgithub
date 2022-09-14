@@ -10,9 +10,9 @@
 and backend web developer with a specialization in MERN stack. Problem solving mindset and
 the ability to perform well in collaboration.</h3>
 
-- Checkout my <a href="https://ranajit-das-portfolio.netlify.app/">Portfolio</a>
-- Checkout my <a href="https://drive.google.com/file/d/1wG9inkWOpOYx-UyNINpI-LGKCi1ZShgm/view?usp=sharing">Resume</a>
-- How to reach me **dasranajit410@gmail.com**
+- 👨‍💻 Checkout my [Portfolio](https://ranajit-das-portfolio.netlify.app/)
+- 💼 Checkout my <a href="https://drive.google.com/file/d/1wG9inkWOpOYx-UyNINpI-LGKCi1ZShgm/view?usp=sharing">Resume</a>
+- 💬 How to reach me, [email](mailto:dasranajit410@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
@@ -47,7 +47,7 @@ the ability to perform well in collaboration.</h3>
 
  <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
-| Github Stats | Current Strek  |
+| 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
 | ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) |
 
@@ -56,8 +56,27 @@ the ability to perform well in collaboration.</h3>
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-| Top Languages | Contribution Graph  |
+| 📊 Top Languages | 📊 Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&theme=dark&langs_count=10&hide_border=true" alt="Ranajit Das" height="100%" width="100%" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
+
+<div>
+ <p align='left'>Top Language</p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&theme=dark&langs_count=8" alt="Ranajit Das" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
+
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+<!-- | Github Stats | Current Strek  |
+| --- | --- |
+| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) | -->
+
+
+ <!-- | Top Languages | Contribution Graph  |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ranajitdasgithub/github-readme-activity-graph) | -->
 
 
