@@ -11,7 +11,7 @@ and backend web developer with a specialization in MERN stack. Problem solving m
 the ability to perform well in collaboration.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://ranajit-das-portfolio.netlify.app/)
-- 📋 Checkout my <a href="https://drive.google.com/file/d/1wG9inkWOpOYx-UyNINpI-LGKCi1ZShgm/view?usp=sharing">Resume</a>
+- 📋  Checkout my <a href="https://drive.google.com/file/d/1wG9inkWOpOYx-UyNINpI-LGKCi1ZShgm/view?usp=sharing">Resume</a>
 - 📧 How to reach me, [email](mailto:dasranajit410@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
@@ -56,7 +56,7 @@ the ability to perform well in collaboration.</h3>
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-| 📊 Top Languages | 📊 Contribution Graph  |
+| 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&theme=dark&langs_count=10&hide_border=true" alt="Ranajit Das" height="100%" width="100%" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
 
