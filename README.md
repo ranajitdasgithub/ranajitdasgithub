@@ -49,7 +49,7 @@ the ability to perform well in collaboration.</h3>
 
 | 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
-| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) |
+| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
@@ -58,7 +58,7 @@ the ability to perform well in collaboration.</h3>
 
 | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark" alt="Ranajit's Language stats" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB" alt="Ranajit's Language stats" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
 
 <!-- <div>
  <p align='left'>Top Language</p>
