@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/194538416-e965224e-b622-418e-a8f6-5b198efd59f0.gif" alt="Ranajit Das" />
+  <img align="center" width='800' height='200'  src="https://user-images.githubusercontent.com/101388961/194538416-e965224e-b622-418e-a8f6-5b198efd59f0.gif" alt="Ranajit Das" />
 </div>
 
 <br/>
