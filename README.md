@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Ranajit Das" />
+  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/194538416-e965224e-b622-418e-a8f6-5b198efd59f0.gif" alt="Ranajit Das" />
 </div>
 
 <br/>
@@ -79,5 +79,6 @@ the ability to perform well in collaboration.</h3>
  <!-- | Top Languages | Contribution Graph  |
 | :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ranajitdasgithub/github-readme-activity-graph) | -->
+
 
 
