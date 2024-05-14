@@ -59,7 +59,9 @@ the ability to perform well in collaboration.</h3>
 
 | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/ranajitdasgithub/github-readme-stats)| [![Ranajit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&point=F4B520&area=true&color=BDDFFF&line=6E93B5)](https://github.com/ashutosh00710/github-readme-activity-graph)  |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/ranajitdasgithub/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
+
+<!--  [![Ranajit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&point=F4B520&area=true&color=BDDFFF&line=6E93B5)](https://github.com/ashutosh00710/github-readme-activity-graph) ->
 <!-- Contribution <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> -->
 
 <!-- <div>
