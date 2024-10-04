@@ -11,7 +11,7 @@ and backend web developer with a specialization in MERN stack. Problem solving m
 the ability to perform well in collaboration.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://ranajit-das-portfolio.netlify.app/)
-- 📋  Checkout my <a href="https://drive.google.com/file/d/1zVzARkyVpkQvgI2DnA-OiyJyhNkA9_-X/view?usp=sharing">Resume</a>
+- 📋  Checkout my <a href="https://drive.google.com/file/d/115eG6uKT7SURvN750fyUR8lw3XWGADG0/view?usp=drive_link">Resume</a>
 - 📧 How to reach me, [email](mailto:dasranajit410@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
