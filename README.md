@@ -29,8 +29,15 @@ the ability to perform well in collaboration.</h3>
 </p>
 
 <h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
-
-<p> 
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img
+      src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,threejs,js,html,css,bootstrap,d3,npm,git,github,gitlab,postman,replit,codepen,netlify,vscode"
+      alt="My Skills"
+    />
+  </a>
+</p>
+<!-- <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
@@ -42,9 +49,7 @@ the ability to perform well in collaboration.</h3>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="40"/>
    <img src="./Images/ExpressLogo.png" alt="git" width="45" height="45"/>
-  
-  
- </p>
+ </p> -->
 
  <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
