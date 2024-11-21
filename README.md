@@ -57,6 +57,10 @@ the ability to perform well in collaboration.</h3>
 | --- | --- |
 | ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=dark)](https://git.io/streak-stats) |
 
+| 📊 Top Languages | 📈 Contribution Graph  |
+| :--- | --- |
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdasgithub&theme=dark&title_color=FDA117&text_color=F2E9DB&hide_border=false&include_all_commits=true&count_private=true&layout=compact)| <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranajitdasgithub&theme=ayu_mirage&title_color=FDA117&text_color=F2E9DB" height="10%" width="100%"/> |
+
 
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
